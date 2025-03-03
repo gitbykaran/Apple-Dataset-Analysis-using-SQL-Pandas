@@ -1,5 +1,5 @@
 # 📊 Apple Sales & Warranty Analysis
-
+![Image](https://github.com/user-attachments/assets/044111ba-efb7-450f-bc98-12591c84cf03)
 ## 📝 Project Overview
 This project analyzes **Apple's sales, product, store, and warranty data** using **Advanced SQL queries**. The dataset contains **over 1 million records** across multiple tables, including:
 - **Sales** 🛒
